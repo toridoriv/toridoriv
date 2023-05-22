@@ -25,8 +25,8 @@
 
 <h3 align="left">Some stats:</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=toridoriv&show_icons=true&locale=en&layout=compact&theme=dracula" alt="toridoriv" /></p>
+<p align="center"><img align="center" src="https://gh-readme-stats-59igr3kge-toridoriv.vercel.app/api/top-langs?username=toridoriv&show_icons=true&locale=en&layout=compact&theme=dracula" alt="toridoriv" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toridoriv&show_icons=true&locale=en&theme=dracula" alt="toridoriv" /></p>
+<p align="center">&nbsp;<img align="center" src="https://gh-readme-stats-59igr3kge-toridoriv.vercel.app/api?username=toridoriv&show_icons=true&locale=en&theme=dracula" alt="toridoriv" /></p>
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=toridoriv&amp;theme=dracula" alt="GitHub Streak"></a></p>
