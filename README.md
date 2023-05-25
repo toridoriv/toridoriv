@@ -17,16 +17,17 @@
 
 - ⚡ Fun fact **I build a web scraper to have a backup of my favorite fanfics**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
+
 <p align="center">
 <a href="https://dev.to/noctap0d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="noctap0d" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/toridoriv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="toridoriv" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Some stats:</h3>
+### Some stats:
 
-<p align="center"><img align="center" src="https://gh-readme-stats-59igr3kge-toridoriv.vercel.app/api/top-langs?username=toridoriv&show_icons=true&locale=en&layout=compact&theme=dracula" alt="toridoriv" /></p>
+<p align="center"><img src="https://gh-readme-stats-59igr3kge-toridoriv.vercel.app/api/top-langs?username=toridoriv&show_icons=true&locale=en&layout=compact&theme=dracula" alt="toridoriv" width="70%%"/></p>
 
-<p align="center">&nbsp;<img align="center" src="https://gh-readme-stats-59igr3kge-toridoriv.vercel.app/api?username=toridoriv&show_icons=true&locale=en&theme=dracula" alt="toridoriv" /></p>
+<p align="center"><img src="https://gh-readme-stats-59igr3kge-toridoriv.vercel.app/api?username=toridoriv&show_icons=true&locale=en&theme=dracula" alt="toridoriv" width="70%%"/></p>
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=toridoriv&amp;theme=dracula" alt="GitHub Streak"></a></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=toridoriv&amp;theme=dracula" alt="GitHub Streak" width="70%%"></a></p>
