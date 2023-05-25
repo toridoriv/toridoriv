@@ -30,4 +30,4 @@
 
 <p align="center"><img src="https://gh-readme-stats-59igr3kge-toridoriv.vercel.app/api?username=toridoriv&show_icons=true&locale=en&theme=dracula" alt="toridoriv" width="70%%"/></p>
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=toridoriv&theme=dracula" alt="GitHub Streak" width="70%%"></a></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=toridoriv&theme=dracula&mode=daily" alt="GitHub Streak" width="70%%"></a></p>
