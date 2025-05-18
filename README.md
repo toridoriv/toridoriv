@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toridoriv&theme=dracula&margin-w=15&margin-h=15&column=4" alt="toridoriv" /></a> </p>
 
-- 🔭 I’m currently working on **a Genshin Impact CLI companion app**, because CLI > GUI
+- 🔭 I’m currently working on [an ESLint toolkit library](https://github.com/toridoriv/eslint-config-toolkit) in order to have my ESLint/Prettier setup ready in a single shareable package.
 
 - 🌱 I’m currently learning **Javascript fundamentals** and **Advanced Typescript Types**
 
